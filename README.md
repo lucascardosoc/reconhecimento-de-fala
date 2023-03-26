@@ -1,2 +1,4 @@
 # reconhecimento-de-fala
-O objetivo dessa aplicação em Python, é fazer com que palavras ditas pelo usuário sejam reconhecidas e transcritas em formato de texto como forma de retorno.
+O objetivo dessa aplicação em Python, é fazer com que palavras ditas pelo usuário sejam reconhecidas e transcritas em formato de texto como forma de retorno. Essa aplicação partiu da ideia de solucionar um problema do Hackathon Ade Sampa voltado para as pessoas com idades 50+. Entendemos que existe uma dor para esse público, que a cada ano vem aumentando mais, que se trata de fraudes por falsas centrais telefônicas de "correspondentes bancários".
+
+Se trata de uma aplicação que monitora todas as ligações através de um serviço adicionado ao aplicativo da instituição bancária. Armazenamos palavras chaves que tem indicios de ser inicio de um golpe, através do que é dito armazenamos e fazemos uma comparação com a base para verificar se aquela ligação se trata de uma fraude, se sim é emitido sinais a pessoa que está recebendo a chamada para se atentar as perguntas e as ações que serão tomadas.
